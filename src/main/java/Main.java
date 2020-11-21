@@ -1,3 +1,5 @@
+package src.main.java;
+
 /**
  * Just a simple class.
  */
